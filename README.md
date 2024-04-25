@@ -95,5 +95,6 @@ Orígenes y ejes de las juntas <origin> y <axis>: Estos elementos definen la ubi
 Para obtener la tabla de Denavit-Hartenberg (DH) en este caso como todas las juntas son de tipo prismatico, la tabla DH será relativamente simple, la cual queda como:
 ![image](https://github.com/andre261220/Lab4/assets/157633777/6a2aed1a-b4dc-446b-90b3-969e1795a65f)
 
-y la visualizacion del robot seria la siguiente: ![image](https://github.com/andre261220/Lab4/assets/157633777/80e2b9ec-8bc7-4a4e-b59d-bd72e9637daa)
+y la visualizacion del robot seria la siguiente:
+![image](https://github.com/andre261220/Lab4/assets/157633777/80e2b9ec-8bc7-4a4e-b59d-bd72e9637daa)
 en este caso se pueden ajustar los eslabones que solo tenemos 3 y todos prismaticos.
