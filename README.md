@@ -96,5 +96,7 @@ Para obtener la tabla de Denavit-Hartenberg (DH) en este caso como todas las jun
 ![image](https://github.com/andre261220/Lab4/assets/157633777/6a2aed1a-b4dc-446b-90b3-969e1795a65f)
 
 y la visualizacion del robot seria la siguiente:
-![image](https://github.com/andre261220/Lab4/assets/157633777/80e2b9ec-8bc7-4a4e-b59d-bd72e9637daa)
+![image](https://github.com/andre261220/Lab4/assets/157633777/d94c450e-0b14-4d66-81b6-d902eeec0e1a)
+
+
 en este caso se pueden ajustar los eslabones que solo tenemos 3 y todos prismaticos.
